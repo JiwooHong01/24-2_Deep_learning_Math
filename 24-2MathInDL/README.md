@@ -9,4 +9,5 @@ I won’t be uploading the professor’s materials(due to potential copyright is
 Chapter 1. Probability Review & Information Theory
 - definition of sample space/event/random variable
 - Entropy
+
 Chapter 2. 
