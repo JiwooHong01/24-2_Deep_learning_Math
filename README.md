@@ -1,3 +1,3 @@
-# Repository for mathematics subjects
+# Repository for mathematics in computer science
 
 
