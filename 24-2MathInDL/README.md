@@ -1,9 +1,8 @@
 # Introduction to Mathematics in Deep Learning
 
 Class Materials:
-Covering Probatility, Information Theory, Linear Algebra, Optimization
+Covering Probatility, Information Theory, Estimation Theory, Linear Algebra, Optimization
 
-I won’t be uploading the professor’s materials(due to potential copyright issues). Instead, I’ll reorganize what I’ve learned and upload my own handwritten notes.
 
 
 Chapter 1. Probability Review & Information Theory
@@ -12,3 +11,10 @@ Chapter 1. Probability Review & Information Theory
 - Gaussian Distribution
 
 Chapter 2. Estimation Theory
+- Markov/Chebyshev/Fano's Inequalities
+- Moment Generating Function
+- Conditional Expectation
+- MLE vs MAP
+- Naive Bayes, Gaussian Descriminant
+- positive (semi)definite matrix
+- Bias vs Variance
