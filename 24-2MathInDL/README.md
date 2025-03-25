@@ -11,3 +11,10 @@ Chapter 1. Probability Review & Information Theory
 - Gaussian Distribution
 
 Chapter 2. Estimation Theory
+- Markov/Chebyshev/Fano's Inequalities
+- Moment Generating Function
+- Conditional Expectation
+- MLE vs MAP
+- Naive Bayes, Gaussian Descriminant
+- positive (semi)definite matrix
+- Bias vs Variance
