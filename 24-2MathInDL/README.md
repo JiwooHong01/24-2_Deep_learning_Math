@@ -3,7 +3,6 @@
 Class Materials:
 Covering Probatility, Information Theory, Linear Algebra, Optimization
 
-I won’t be uploading the professor’s materials(due to potential copyright issues). Instead, I’ll reorganize what I’ve learned and upload my own handwritten notes.
 
 
 Chapter 1. Probability Review & Information Theory
