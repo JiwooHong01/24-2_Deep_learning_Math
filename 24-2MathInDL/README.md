@@ -1,7 +1,7 @@
 # Introduction to Mathematics in Deep Learning
 
 Class Materials:
-Covering Probatility, Information Theory, Linear Algebra, Optimization
+Covering Probatility, Information Theory, Estimation Theory, Linear Algebra, Optimization
 
 
 
