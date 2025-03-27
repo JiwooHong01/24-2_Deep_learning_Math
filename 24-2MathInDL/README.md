@@ -27,3 +27,5 @@ Chapter 3. Optimization
 - Nesterov's accelerated gradient method(AGM)
 - Momentum, Nesterov oscillation
 - SGD, Regularization, RMSProp, Adam, SAM
+
+done. Mar 27, 2025
