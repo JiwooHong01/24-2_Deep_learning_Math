@@ -18,3 +18,12 @@ Chapter 2. Estimation Theory
 - Naive Bayes, Gaussian Descriminant
 - positive (semi)definite matrix
 - Bias vs Variance
+
+Chapter 3. Optimization
+- Linear Algebra(Norm, Orthogonal, SVM, Pseudo-inverse, Soft Prediction, Loss Function, Risks(Expected, Bayes, Empirical))
+- L-Lipschitz, L-smooth, mu-strongly convex, co-coercivity, PL
+- Gradient Descent
+- Operator
+- Nesterov's accelerated gradient method(AGM)
+- Momentum, Nesterov oscillation
+- SGD, Regularization, RMSProp, Adam, SAM
